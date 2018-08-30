@@ -11,6 +11,8 @@ This repository is a source code for following docker images that allow relative
 * jakubsacha/symfony-docker:php7-dev
 * jakubsacha/symfony-docker:php7.1
 * jakubsacha/symfony-docker:php7.1-dev
+* jakubsacha/symfony-docker:php7.2
+* jakubsacha/symfony-docker:php7.2-dev
 
 ## What is the concept here?
 
